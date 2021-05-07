@@ -1,0 +1,49 @@
+baseurl: ""
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  profile: false
+  blanklines: false
+  ignore:
+    envs: [development]
+defaults:
+  -
+    scope:
+      path: ''          # An empty string here means all files in the project
+    values:
+      layout: post
+      comments: true
+description: Dedicated to all the members of the Harvey Mudd College community who have passed away throughout the years.
+disqus:
+  shortname: harvey-mudd-college-memorial
+email: chris@crickertech.com
+exclude:
+  - .tm_properties
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - Rakefile
+  - README.md
+github_username:  calef
+jekyll-archives:
+  enabled: [categories, tags]
+  layouts:
+    category: tag
+    tag: tag
+  permalinks:
+    tag: /tags/:name/
+    category: /categories/:name/
+lang: en-US
+paginate: 6
+plugins:
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-archives
+tagline: Dedicated to the Harvey Mudd College community.
+theme: uswds-jekyll
+title: Harvey Mudd College Memorial
+twitter_username: chrisalef
+url: "https://hmcmemorial.org"
