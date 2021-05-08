@@ -1,14 +1,7 @@
 ---
 layout: page
 title: Comment Policy
-breadcrumb:
-  -
-    label: Home
-    url: /
 ---
-Comment Policy
---------------
-
 Comments are welcomed and encouraged on this site, but there are some instances where comments will be edited or deleted as follows:
 
 * Comments deemed to be spam or solely promotional in nature will be deleted. Including a link to relevant content is permitted, but comments should be relevant to the post topic.
