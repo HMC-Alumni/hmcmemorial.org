@@ -38,7 +38,7 @@ lang: en-US
 paginate: 6
 plugins:
   - jekyll-paginate
-#  - jekyll-feed
+  - jekyll-feed
   - jekyll-seo-tag
 #  - jekyll-sitemap
 #  - jekyll-archives
