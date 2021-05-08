@@ -12,4 +12,4 @@ Mel passed away on October 14, 2009 at the age of 82 and spent a significant por
 
 Jezmyne Dene, the Claremont Science Librarian who perhaps knew Mel best in his last few years compiled a set of Mel memorabilia, including copies of Mel’s papers (he authored over a hundred publications) and the single variable calculus text that he wrote. Mel's published papers spanned over half a century, starting in the early 1950s and continuing through this past year.
 
-For more information, please read the [old Harvey Mudd College news article](https://www.hmc.edu/non-wp-sites/old-news/melvin-henriksen-memorial.php).
+For the full memorial, please read the [old Harvey Mudd College news article](https://www.hmc.edu/non-wp-sites/old-news/melvin-henriksen-memorial.php).

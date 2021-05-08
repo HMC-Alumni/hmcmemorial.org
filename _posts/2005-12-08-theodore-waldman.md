@@ -11,4 +11,4 @@ Jeff Groves, chair of the Humanities and Social Sciences Department at HMC remar
 
 Waldman graduated from Washington University in St. Louis in 1947 with a bachelor of arts in philosophy. He earned his master's in philosophy in 1948, master's in sociology in 1951 and his Ph.D. in philosophy in 1956 from U.C. Berkeley.
 
-For more information, please read the [old Harvey Mudd College news article](https://www.hmc.edu/non-wp-sites/old-news/TheodoreWaldman.php).
+For the full memorial, please read the [old Harvey Mudd College news article](https://www.hmc.edu/non-wp-sites/old-news/TheodoreWaldman.php).

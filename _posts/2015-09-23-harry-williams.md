@@ -10,4 +10,4 @@ Harvey Mudd College engineering Professor Emeritus Harry E. Williams Jr. passed 
 
 Williams joined Harvey Mudd in 1960 as a professor of physics, pending an opening in the Department of Engineering. A year later, he moved to engineering where, for the next 40 years, he taught courses from fluid and solid mechanics to thermodynamics and more, helping to build the department from its infancy.
 
-For more information, please read the article in [Harvey Mudd College News](https://www.hmc.edu/about-hmc/2015/10/01/college-mourns-loss-of-engineering-professor-harry-williams/).
+For the full memorial, please read the article in [Harvey Mudd College News](https://www.hmc.edu/about-hmc/2015/10/01/college-mourns-loss-of-engineering-professor-harry-williams/).

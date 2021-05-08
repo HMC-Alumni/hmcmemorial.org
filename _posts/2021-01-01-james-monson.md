@@ -11,4 +11,4 @@ Professor Emeritus of Engineering Jim Monson died Jan. 1, 2021 at his home in Po
 
 After attending New Mexico Military Institute, Monson went on to earn his B.S., M.S. and PhD degrees in electrical engineering from Stanford University. He worked at Bell Telephone Labs and Hewlett Packard then began his academic career at Harvey Mudd College in 1961. Because the College had just begun only a few years earlier, Monson and his few colleagues created an innovative curriculum in engineering, with components of the humanities. He also helped establish and develop Engineering Clinic, in which student teams work on design projects sponsored by industrial clients.
 
-For more information, please read the [HMC memorial](https://www.hmc.edu/in-memoriam/james-edward-monson/) where you can also share your memories.
+For the full memorial, please read the [HMC memorial](https://www.hmc.edu/in-memoriam/james-edward-monson/) where you can also share your memories.

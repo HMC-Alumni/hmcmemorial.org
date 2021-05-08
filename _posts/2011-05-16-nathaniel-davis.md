@@ -12,4 +12,4 @@ Davis joined the ranks of the HMC faculty as the first Alexander and Adelaide Hi
 
 “Nat brought spectacular insight into world politics to HMC and shared this with students in his classes,” said Dean of Faculty Bob Cave “His classes were highly sought after by students and they benefited both from his knowledge and kindness.  In faculty meetings he was particularly adept at seeing the heart of an issue and offering wise counsel. He retired from the faculty in 2002. He continued to attend campus events and had a wonderful way of encouraging those whom he met—he will be missed.”
 
-For more information, please read the [old Harvey Mudd College news article](https://www.hmc.edu/non-wp-sites/old-news/nathaniel-davis.php).
+For the full memorial, please read the [old Harvey Mudd College news article](https://www.hmc.edu/non-wp-sites/old-news/nathaniel-davis.php).

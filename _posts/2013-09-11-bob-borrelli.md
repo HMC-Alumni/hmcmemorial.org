@@ -10,4 +10,4 @@ Robert “Bob” L. Borrelli, a longtime faculty member, campus leader and frien
 
 “In addition to being an inspiring teacher and colleague, Bob was a driving force in the mathematics field, especially at Harvey Mudd,” said President Maria Klawe. “This is splendidly shown in the 2006 Award for an Exemplary Mathematics Program from the American Mathematical Society, the first such award ever given.”
 
-For more information, please read the [HMC memorial](https://www.hmc.edu/in-memoriam/bob-borelli/) where you can view memories from colleagues and students.
+For the full memorial, please read the [HMC memorial](https://www.hmc.edu/in-memoriam/bob-borelli/) where you can view memories from colleagues and students.

@@ -10,4 +10,4 @@ Longtime Harvey Mudd College Professor of Chemistry Mits Kubota passed away Nov.
 
 An inorganic chemist and beloved professor, Kubota had an impressive professional career that included research fellowships at the University of Sussex (1973), Chevron Research Co. (1981) and the University of Venice (1988).
 
-For more information, please read the article in [Harvey Mudd College News](https://www.hmc.edu/about-hmc/2018/11/30/in-memoriam-chemistry-professor-mitsuru-kubota/).
+For the full memorial, please read the article in [Harvey Mudd College News](https://www.hmc.edu/about-hmc/2018/11/30/in-memoriam-chemistry-professor-mitsuru-kubota/).

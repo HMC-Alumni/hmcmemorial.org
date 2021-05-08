@@ -12,4 +12,4 @@ After stepping down from Harvey Mudd College, Platt served from 1976 to 1981 as 
 
 Platt died peacefully at home after a period of declining health, said daughter Ann Platt Walker.
 
-For more information, please read the article in [Harvey Mudd College News](https://www.hmc.edu/about-hmc/2012/07/11/hmc-mourns-passing-of-founding-president-joseph-platt/).
+For the full memorial, please read the article in [Harvey Mudd College News](https://www.hmc.edu/about-hmc/2012/07/11/hmc-mourns-passing-of-founding-president-joseph-platt/).

@@ -10,4 +10,4 @@ Harvey Mudd College engineering Professor Emeritus Sedat Serdengecti died Nov. 3
 
 Professor Serdengecti joined Harvey Mudd in 1961 as an assistant professor of physics then moved to the Department of Engineering in 1963 as one of its first faculty members.
 
-For more information, please read the article in [Harvey Mudd College News](https://www.hmc.edu/about-hmc/2015/01/07/sedat-serdengecti-versatile-scholar-impacted-engineering-physics-computer-science/), which includes many [student and staff memories](https://www.hmc.edu/in-memoriam/sedat-serdengecti/).
+For the full memorial, please read the article in [Harvey Mudd College News](https://www.hmc.edu/about-hmc/2015/01/07/sedat-serdengecti-versatile-scholar-impacted-engineering-physics-computer-science/), which includes many [student and staff memories](https://www.hmc.edu/in-memoriam/sedat-serdengecti/).

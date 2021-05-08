@@ -10,4 +10,4 @@ Henry E. (“Hank”) Riggs, past president of Harvey Mudd College, former vice 
 
 Riggs had a remarkable career as entrepreneur, professor, writer, and leader in higher education. He continually sought out challenges and his vision fundamentally shaped every institution with which he was involved. Throughout his life, his abiding passion was for teaching, and he taught up until a few weeks before his death. He will be remembered for his immense talent, enduring vision, uncompromising integrity and enormous generosity.
 
-For more information, please read the article in [Harvey Mudd College News](https://www.hmc.edu/about-hmc/2015/06/16/henry-riggs-third-harvey-mudd-college-president-dies/).
+For the full memorial, please read the article in [Harvey Mudd College News](https://www.hmc.edu/about-hmc/2015/06/16/henry-riggs-third-harvey-mudd-college-president-dies/).

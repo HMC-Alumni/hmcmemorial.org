@@ -12,4 +12,4 @@ Moody, former professor of mathematics and chair of the Department of Mathematic
 
 From 1996 until 2002, the department hired eight new professors; the total number of faculty was then 12. Moody wanted people who would mesmerize and inspire students in the classroom and have a passion for their mathematical work.  Moody set for the department what he called an “animating goal”: To be recognized as one the very best undergraduate programs in the country.
 
-For more information, please read the [old Harvey Mudd College news article](https://www.hmc.edu/non-wp-sites/old-news/MoodyDies10.php).
+For the full memorial, please read the [old Harvey Mudd College news article](https://www.hmc.edu/non-wp-sites/old-news/MoodyDies10.php).
