@@ -26,6 +26,7 @@ exclude:
   - Rakefile
   - README.md
 github_username:  calef
+google_analytics_ua: UA-196525748-1
 jekyll-archives:
   enabled: [categories, tags]
   layouts:
