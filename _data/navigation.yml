@@ -3,3 +3,17 @@ primary:
     href: /
   - text: FAQ
     href: /faq
+
+memorials:
+  - text: Alumni
+    href: /categories/alumni/
+  - text: Administration
+    href: /categories/administration/
+  - text: Faculty
+    href: /categories/faculty/
+  - text: Staff
+    href: /categories/staff/
+  - text: Supporters
+    href: /categories/supporters/
+  - text: Trustees
+    href: /categories/trustees/
