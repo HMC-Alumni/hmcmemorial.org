@@ -3,6 +3,7 @@ title: Jack H. Waggoner
 date: 2016-07-02
 categories: faculty
 image: /assets/img/Waggoner-4.jpg
+author: Harvey Mudd College News
 ---
 ![Jack H. Waggoner](/assets/img/Waggoner-4.jpg)
 

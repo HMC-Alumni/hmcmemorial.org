@@ -3,6 +3,7 @@ title: Melvin Henriksen
 date: 2009-10-14
 categories: faculty
 image: /assets/img/melvin-henrikson.jpg
+author: Harvey Mudd College News
 ---
 ![Melvin Henriksen](/assets/img/melvin-henrikson.jpg)
 

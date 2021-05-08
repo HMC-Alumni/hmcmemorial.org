@@ -3,6 +3,7 @@ title: Robin Ives
 date: 2019-01-11
 categories: faculty
 image: /assets/img/IvesRobin-lr.jpg
+author: Harvey Mudd College News
 ---
 ![Robin Ives](/assets/img/IvesRobin-lr.jpg)
 

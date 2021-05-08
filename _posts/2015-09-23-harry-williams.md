@@ -3,6 +3,7 @@ title: Harry Williams
 date: 2015-09-23
 categories: faculty
 image: /assets/img/harry-williams.jpg
+author: Harvey Mudd College News
 ---
 ![Harry Williams](/assets/img/harry-williams.jpg)
 

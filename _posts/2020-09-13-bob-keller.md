@@ -3,6 +3,7 @@ title: Bob Keller
 date: 2020-09-13
 categories: faculty
 image: /assets/img/keller-feature.jpg
+author: Harvey Mudd College In Memoriam
 comments: false
 ---
 ![Bob Keller](/assets/img/keller-feature.jpg)

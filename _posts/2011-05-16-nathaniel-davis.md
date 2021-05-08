@@ -3,6 +3,7 @@ title: Nathaniel Davis
 date: 2011-05-16
 categories: faculty
 image: /assets/img/nathaniel-davis-2.jpg
+author: Harvey Mudd College News
 ---
 ![Nathaniel Davis](/assets/img/nathaniel-davis-2.jpg)
 

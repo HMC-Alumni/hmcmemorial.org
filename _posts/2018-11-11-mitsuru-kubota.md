@@ -3,6 +3,7 @@ title: Mitsuru Kubota
 date: 2018-11-11
 categories: faculty
 image: /assets/img/KUBOTA1-850w.jpg
+author: Harvey Mudd College News
 ---
 ![Mitsuru Kubota](/assets/img/KUBOTA1-850w.jpg)
 

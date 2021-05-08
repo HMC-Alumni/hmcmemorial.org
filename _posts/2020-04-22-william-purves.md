@@ -3,6 +3,7 @@ title: William K. Purves
 date: 2020-04-22
 categories: faculty
 image: /assets/img/Purves-2013_2336-lr.jpg
+author: Harvey Mudd College News
 ---
 ![William K. Purves](/assets/img/Purves-2013_2336-lr.jpg)
 

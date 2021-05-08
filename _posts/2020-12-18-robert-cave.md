@@ -3,6 +3,7 @@ title: Robert J. Cave
 date: 2020-12-18
 categories: faculty
 image: /assets/img/Robert J_ Cave.png
+author: Mudd Magazine
 ---
 ![Robert J. Cave](/assets/img/Robert J_ Cave.png)
 

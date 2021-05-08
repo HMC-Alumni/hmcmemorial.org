@@ -3,6 +3,7 @@ title: Phil Myhre
 date: 2018-08-26
 categories: faculty
 image: /assets/img/Myhre-bw.jpg
+author: Harvey Mudd College News
 ---
 ![Phil Myhre](/assets/img/Myhre-bw.jpg)
 

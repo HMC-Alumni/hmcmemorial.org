@@ -2,6 +2,7 @@
 title: Theodore Waldman
 date: 2005-12-08
 categories: faculty
+author: Harvey Mudd College News
 ---
 All are welcome to attend a memorial for Professor Emeritus Theodore Waldman, which will be held on the Harvey Mudd College campus on Sunday, Feb. 19, at 2 p.m. in the Green Room of Platt Campus Center.
 

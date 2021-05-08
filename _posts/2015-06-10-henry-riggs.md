@@ -3,6 +3,7 @@ title: Henry Riggs
 date: 2015-06-10
 categories: administration
 image: /assets/img/Riggs-sq-1M.jpg
+author: Harvey Mudd College News
 ---
 ![Henry Riggs](/assets/img/Riggs-sq-1M.jpg)
 

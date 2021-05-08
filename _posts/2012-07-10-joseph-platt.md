@@ -3,6 +3,7 @@ title: Joseph Platt
 date: 2012-07-10
 categories: administration
 image: /assets/img/Platt-Joe-web.jpg
+author: Harvey Mudd College News
 ---
 ![Joseph Platt](/assets/img/Platt-Joe-web.jpg)
 

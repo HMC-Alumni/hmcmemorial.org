@@ -3,6 +3,7 @@ title: Michael Moody
 date: 2010-01-21
 categories: faculty
 image: /assets/img/mike-moody.jpg
+author: Harvey Mudd College News
 ---
 ![Michael Moody](/assets/img/mike-moody.jpg)
 
