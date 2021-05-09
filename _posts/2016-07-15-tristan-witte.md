@@ -3,7 +3,6 @@ title: Tristan Witte
 date: 2016-07-15
 categories: alumni 2018
 image: /assets/img/tristan-witte.jpg
-comments: false
 author: Harvey Mudd College In Memoriam
 ---
 ![Tristan Witte](/assets/img/tristan-witte.jpg)
