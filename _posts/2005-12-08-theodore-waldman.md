@@ -1,7 +1,8 @@
 ---
 title: Theodore Waldman
 date: 2005-12-08
-categories: faculty
+categories: staff faculty
+tags: hum-soc
 author: Harvey Mudd College News
 image: /assets/img/theodore-waldman.jpg
 ---

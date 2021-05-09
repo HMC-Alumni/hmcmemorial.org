@@ -1,7 +1,8 @@
 ---
 title: James Edward Monson
 date: 2021-01-01
-categories: faculty
+categories: staff faculty
+tags: engineering
 image: /assets/img/Monson-Youngblood3-e1611946271907.jpg
 comments: false
 author: Harvey Mudd College In Memoriam

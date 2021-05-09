@@ -1,7 +1,8 @@
 ---
 title: Mitsuru Kubota
 date: 2018-11-11
-categories: faculty
+categories: staff faculty
+tags: chemistry
 image: /assets/img/KUBOTA1-850w.jpg
 author: Harvey Mudd College News
 ---

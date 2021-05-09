@@ -2,6 +2,7 @@
 title: Tristan Witte
 date: 2016-07-15
 categories: alumni 2018
+tags: engineering
 image: /assets/img/tristan-witte.jpg
 author: Harvey Mudd College In Memoriam
 ---

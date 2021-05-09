@@ -1,7 +1,8 @@
 ---
 title: Robert J. Cave
 date: 2020-12-18
-categories: faculty
+categories: staff faculty
+tags: chemistry
 image: /assets/img/Robert J_ Cave.png
 author: Mudd Magazine
 ---

@@ -1,7 +1,8 @@
 ---
 title: Michael Moody
 date: 2010-01-21
-categories: faculty
+categories: staff faculty
+tags: mathematics
 image: /assets/img/mike-moody.jpg
 author: Harvey Mudd College News
 ---

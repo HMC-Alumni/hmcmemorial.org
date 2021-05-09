@@ -1,7 +1,8 @@
 ---
 title: Bob Keller
 date: 2020-09-13
-categories: faculty
+categories: staff faculty
+tags: computer-science
 image: /assets/img/keller-feature.jpg
 author: Harvey Mudd College In Memoriam
 comments: false

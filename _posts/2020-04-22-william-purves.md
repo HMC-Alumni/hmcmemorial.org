@@ -1,7 +1,8 @@
 ---
 title: William K. Purves
 date: 2020-04-22
-categories: faculty
+categories: staff faculty
+tags: biology computer-science
 image: /assets/img/Purves-2013_2336-lr.jpg
 author: Harvey Mudd College News
 ---

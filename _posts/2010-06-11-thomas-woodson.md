@@ -1,7 +1,8 @@
 ---
 title: Thomas Woodson
 date: 2010-06-11
-categories: faculty
+categories: staff faculty
+tags: engineering
 image: /assets/img/woodson-thomas.jpg
 author: Harvey Mudd College News
 ---

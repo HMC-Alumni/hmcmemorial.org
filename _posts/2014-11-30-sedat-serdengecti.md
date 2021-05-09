@@ -1,7 +1,8 @@
 ---
 title: Sedat Serdengecti
 date: 2014-11-30
-categories: faculty
+categories: staff faculty
+tags: engineering physics
 image: /assets/img/Sedat-news.jpg
 author: Harvey Mudd College In Memoriam
 ---

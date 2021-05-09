@@ -1,7 +1,8 @@
 ---
 title: Bob Borrelli
 date: 2013-09-11
-categories: faculty
+categories: staff faculty
+tags: mathematics
 image: /assets/img/bob-borrelli-1-762x1024.jpg
 author: Harvey Mudd College In Memoriam
 ---

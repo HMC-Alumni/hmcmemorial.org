@@ -1,7 +1,8 @@
 ---
 title: Melvin Henriksen
 date: 2009-10-14
-categories: faculty
+categories: staff faculty
+tags: mathematics
 image: /assets/img/melvin-henrikson.jpg
 author: Harvey Mudd College News
 ---

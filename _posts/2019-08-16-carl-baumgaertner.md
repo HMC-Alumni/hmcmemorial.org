@@ -1,7 +1,8 @@
 ---
 title: Carl Baumgaertner
 date: 2019-08-16
-categories: faculty
+categories: staff faculty
+tags: engineering
 image: /assets/img/carl-baumgaertner.jpg
 author: Harvey Mudd College News
 ---

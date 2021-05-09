@@ -1,7 +1,8 @@
 ---
 title: William G. Sly
 date: 2002-09-09
-categories: faculty
+categories: staff faculty
+tags: chemistry
 image: /assets/img/william-sly.jpg
 ---
 ![William G. Sly](/assets/img/william-sly.jpg)

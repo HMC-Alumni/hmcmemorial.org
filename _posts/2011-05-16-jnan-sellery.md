@@ -1,7 +1,8 @@
 ---
 title: J’nan Morse Sellery
 date: 2011-05-16
-categories: faculty
+categories: staff faculty
+tags: hum-soc
 image: /assets/img/jnan-sellery.jpg
 author: Harvey Mudd College News
 ---

@@ -1,7 +1,8 @@
 ---
 title: Robin Ives
 date: 2019-01-11
-categories: faculty
+categories: staff faculty
+tags: mathematics
 image: /assets/img/IvesRobin-lr.jpg
 author: Harvey Mudd College News
 ---

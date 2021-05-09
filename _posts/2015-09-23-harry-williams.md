@@ -1,7 +1,8 @@
 ---
 title: Harry Williams
 date: 2015-09-23
-categories: faculty
+categories: staff faculty
+tags: engineering
 image: /assets/img/harry-williams.jpg
 author: Harvey Mudd College News
 ---

@@ -1,7 +1,8 @@
 ---
 title: Jack H. Waggoner
 date: 2016-07-02
-categories: faculty
+categories: staff faculty
+tags: physics
 image: /assets/img/Waggoner-4.jpg
 author: Harvey Mudd College News
 ---

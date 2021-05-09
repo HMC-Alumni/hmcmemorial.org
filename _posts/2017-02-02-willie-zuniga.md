@@ -2,6 +2,7 @@
 title: Willie Zuniga
 date: 2017-02-02
 categories: alumni 2017
+tags: physics
 image: /assets/img/willie-zuniga.jpg
 author: Harvey Mudd College In Memoriam
 ---
