@@ -33,10 +33,11 @@ jekyll-archives:
     category: tag
     tag: tag
   permalinks:
-    tag: /tags/:name/
+    tag: /departments/:name/
     category: /categories/:name/
 lang: en-US
 paginate: 6
+permalink: /:year-:month-:day/:title:output_ext
 plugins:
   - jekyll-paginate
   - jekyll-feed
