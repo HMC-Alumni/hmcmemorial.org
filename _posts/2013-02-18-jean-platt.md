@@ -3,7 +3,7 @@ title: Jean Platt
 date: 2013-02-18
 categories: administration
 image: /assets/img/jean-ferguson-platt.jpeg
-author: Harvey Mudd College News
+author: Harvey Mudd College In Memoriam
 ---
 ![Jean Platt](/assets/img/jean-ferguson-platt.jpeg)
 
@@ -15,4 +15,4 @@ Jean Platt was preceded in death by Joe, who died July 10, 2012. They are surviv
 
 “Jean’s love of HMC was an integral part of the College’s early years, especially in the development of our students and alumni,” said HMC President Maria Klawe. “During her 20 years as HMC’s first lady, she opened her home to host first-year dinners, arranged faculty teas and stood by Joe’s side through the building of the College. In addition to her contributions to HMC, Jean was an energetic and faithful community volunteer. I am so thankful to Jean for all that she has done for Harvey Mudd College and the community at large.”
 
-For the full memorial, please read the article in [Harvey Mudd College News](https://www.hmc.edu/non-wp-sites/old-news/hmc-mourns-passing-of-founding-first-lady-jean-platt.php).
+For the full memorial, please read the article in [Harvey Mudd College In Memoriam](https://www.hmc.edu/in-memoriam/jean-platt/). You can also find memories of Jean shared by staff and students.
