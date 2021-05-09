@@ -1,7 +1,7 @@
 ---
 title: Jean Platt
 date: 2013-02-18
-categories: administration
+categories: supporter
 image: /assets/img/jean-ferguson-platt.jpeg
 author: Harvey Mudd College In Memoriam
 ---
