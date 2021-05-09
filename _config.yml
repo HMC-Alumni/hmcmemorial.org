@@ -44,7 +44,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-archives
-tagline: Dedicated to the Harvey Mudd College community.
+tagline: Remembering the HMC community.
 theme: uswds-jekyll
 title: Harvey Mudd College Memorial
 twitter_username: chrisalef
