@@ -13,7 +13,7 @@ The project involved textual study, classroom instruction, testing, modern labor
 
 Read the full LA Times article [here](https://www.latimes.com/archives/la-xpm-1989-05-26-mn-552-story.html).
 
-Arthur Campbell was Harvey Mudd College's first faculty appointment. [Joseph Platt](/2012-07-10/joseph-platt.html) wrote extensively about Art Campbell in <i>Harvey Mudd College : The First Twenty Years</i>:
+Arthur Campbell was Harvey Mudd College's first faculty appointment. [Joseph Platt](/2012-07-10/joseph-platt.html) wrote extensively about Art Campbell in <i>[Harvey Mudd College: The First Twenty Years](https://scholarship.claremont.edu/hmc_facbooks/2/)</i>:
 
 > We were very fortunate in our first appointment: Professor J. Arthur Campbell. Art was nominated by Kenneth S. Pitzer, then dean of chemistry at the University of California, Berkeley.' Art had his doctorate in chemistry from Berkeley and had taught there before moving to Oberlin College. At the time we met he was full professor at Oberlin, on leave for a year to the National Science Foundation to direct its Program of Institutes. He knew the Claremont Colleges well, and I had learned that he was nationally respected as a chemist and teacher of chemists. Our first real visit was in Washington, DiC,; where Dottie and Art invited me for dinner at their home. I knew in short order that we wanted the Campbells at Harvey Mudd College. Fortunately for us, the Campbells agreed.
 
