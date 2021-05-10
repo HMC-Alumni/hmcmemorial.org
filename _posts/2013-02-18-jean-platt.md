@@ -2,10 +2,10 @@
 title: Jean Platt
 date: 2013-02-18
 categories: supporters
-image: /assets/img/jean-ferguson-platt.jpeg
+image: /assets/img/jean-platt.webp
 author: Harvey Mudd College In Memoriam
 ---
-![Jean Platt](/assets/img/jean-ferguson-platt.jpeg)
+![Jean Platt](/assets/img/jean-platt.webp)
 
 Jean Ferguson Platt, founding first lady of Harvey Mudd College, passed away on Feb. 18 in Claremont, Calif. She was 91.
 
