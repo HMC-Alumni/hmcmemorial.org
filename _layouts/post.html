@@ -15,9 +15,12 @@ main:
   <div class="grid-col-fill"></div>
   <div class="grid-col-auto">
     {{ content }}
-    {% if page.tags %}
+    {% if page.tags or page.categories %}
       <ul class="usa-button-group">
         <li class="usa-button-group__item">
+          {% for category in page.categories %}
+            <a href="/categories/{{ category }}" class="usa-button usa-button--outline">{{ category }}</a>
+          {% endfor %}
           {% for tag in page.tags %}
             <a href="/departments/{{ tag }}" class="usa-button usa-button--outline">{{ tag }}</a>
           {% endfor %}
