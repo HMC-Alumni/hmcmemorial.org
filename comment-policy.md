@@ -11,4 +11,4 @@ Comments are welcomed and encouraged on this site, but there are some instances 
 * Comments that harass other posters will be deleted. Please be respectful toward other contributors.
 * Anonymous comments will be deleted. We only accept comments from posters who identify themselves.
 
-The owner of this blog reserves the right to edit or delete any comments submitted to the blog without notice. This comment policy is subject to change at any time. If you have any questions about the commenting policy, please let us know.
+The owner of this site reserves the right to edit or delete any comments submitted to the site without notice. This comment policy is subject to change at any time. If you have any questions about the commenting policy, please let us know.
