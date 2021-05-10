@@ -3,12 +3,16 @@ primary:
     href: /
   - text: FAQ
     href: /faq
+  - text: Memorials
+    links: memorials
+  - text: Departments
+    links: departments
 
 memorials:
   - text: Alumni
     href: /categories/alumni/
-  - text: Administration
-    href: /categories/administration/
+  - text: Administrators
+    href: /categories/administrators/
   - text: Faculty
     href: /categories/faculty/
   - text: Staff
@@ -17,3 +21,19 @@ memorials:
     href: /categories/supporters/
   - text: Trustees
     href: /categories/trustees/
+
+departments:
+  - text: Biology
+    href: /departments/biology/
+  - text: Chemistry
+    href: /departments/chemistry/
+  - text: Computer Science
+    href: /departments/computer-science/
+  - text: Engineering
+    href: /departments/engineering/
+  - text: Humanities & Social Sciences
+    href: /departments/hum-soc/
+  - text: Mathematics
+    href: /departments/mathematics/
+  - text: Physics
+    href: /departments/physics/
