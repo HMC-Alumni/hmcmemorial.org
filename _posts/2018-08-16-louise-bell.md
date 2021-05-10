@@ -8,7 +8,7 @@ author: Harvey Mudd College News
 ---
 ![Louise Bell](/assets/img/louise-bell.webp)
 
-Louise Bell, a devoted supporter of Harvey Mudd College and wife of the late emeritus physics faculty member Graydon Bell, died August 16, 2018.
+Louise Bell, a devoted supporter of Harvey Mudd College and wife of the late emeritus physics faculty member [Graydon Bell](/2010-07-20/gray-bell.html), died August 16, 2018.
 
 “Louise Bell and her husband, Gray, opened their home and their lives to generations of HMC students and newer faculty members (Since Gray Bell was the founding member of the HMC physics department, just about all faculty members were newer than them!),” said Theresa Lynn, chair of the physics department.  “Many faculty members and alumni have fond memories of games, food and laughter at the house of the Bells. Louise was also influential across the 5C community, notably in helping to establish International Place as a resource for international students.”
 
