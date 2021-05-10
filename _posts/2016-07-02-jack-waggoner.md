@@ -3,10 +3,10 @@ title: Jack H. Waggoner
 date: 2016-07-02
 categories: staff faculty
 tags: physics
-image: /assets/img/Waggoner-4.jpg
+image: /assets/img/jack-waggoner.webp
 author: Harvey Mudd College News
 ---
-![Jack H. Waggoner](/assets/img/Waggoner-4.jpg)
+![Jack H. Waggoner](/assets/img/jack-waggoner.webp)
 
 The Harvey Mudd College community mourns the passing of Jack Holmes Waggoner, a longtime physics professor and emeritus faculty member at Harvey Mudd College. He died Saturday, July 2.
 

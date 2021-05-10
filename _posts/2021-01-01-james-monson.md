@@ -3,11 +3,11 @@ title: James Edward Monson
 date: 2021-01-01
 categories: staff faculty
 tags: engineering
-image: /assets/img/Monson-Youngblood3-e1611946271907.jpg
+image: /assets/img/james-monson.webp
 comments: false
 author: Harvey Mudd College In Memoriam
 ---
-![James Edward Monson](/assets/img/Monson-Youngblood3-e1611946271907.jpg)
+![James Edward Monson](/assets/img/james-monson.webp)
 
 Professor Emeritus of Engineering Jim Monson died Jan. 1, 2021 at his home in Point Reyes, surrounded by his three children and Julie, his wife of 65 years. He led a full life of teaching, research, caring for his family and volunteering in the communities he lived in.
 

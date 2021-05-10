@@ -3,10 +3,10 @@ title: Mitsuru Kubota
 date: 2018-11-11
 categories: staff faculty
 tags: chemistry
-image: /assets/img/KUBOTA1-850w.jpg
+image: /assets/img/mitsuru-kubota.webp
 author: Harvey Mudd College News
 ---
-![Mitsuru Kubota](/assets/img/KUBOTA1-850w.jpg)
+![Mitsuru Kubota](/assets/img/mitsuru-kubota.webp)
 
 Longtime Harvey Mudd College Professor of Chemistry Mits Kubota passed away Nov. 11. Kubota served on the faculty of the College between 1959 and 2000 and was chair of the Department of Chemistry from 1989 to 1995.
 

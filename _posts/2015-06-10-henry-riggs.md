@@ -2,10 +2,10 @@
 title: Henry Riggs
 date: 2015-06-10
 categories: staff administrators
-image: /assets/img/Riggs-sq-1M.jpg
+image: /assets/img/hank-riggs.webp
 author: Harvey Mudd College News
 ---
-![Henry Riggs](/assets/img/Riggs-sq-1M.jpg)
+![Henry Riggs](/assets/img/hank-riggs.webp)
 
 Henry E. (“Hank”) Riggs, past president of Harvey Mudd College, former vice president for development at Stanford University, founder and first president of Keck Graduate Institute, died at his home in Palo Alto on June 10, after a brief illness. His wife and children were at his side. A memorial service is planned for June 23 at 2:30 p.m. in the Arrillaga Alumni Center on the Stanford campus.
 

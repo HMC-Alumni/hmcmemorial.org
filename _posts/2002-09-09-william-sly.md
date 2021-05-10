@@ -3,9 +3,9 @@ title: William G. Sly
 date: 2002-09-09
 categories: staff faculty
 tags: chemistry
-image: /assets/img/william-sly.jpg
+image: /assets/img/william-sly.webp
 ---
-![William G. Sly](/assets/img/william-sly.jpg)
+![William G. Sly](/assets/img/william-sly.webp)
 
 William Glenn Sly, 80 of Valley Center passed away Monday September 9, 2002. William was never married and is survived by his brother, Edward D. Sly of San Diego, his niece Laura S. Peter of Lakeside, and nephews Edward A. Sly and Robert W. Sly of San Diego. The children of Laura, Edward and Robert remember Bill as "GUB" (Great Uncle Bill).
 

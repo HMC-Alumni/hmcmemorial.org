@@ -3,10 +3,10 @@ title: Thomas Woodson
 date: 2010-06-11
 categories: staff faculty
 tags: engineering
-image: /assets/img/woodson-thomas.jpg
+image: /assets/img/woodson-thomas.webp
 author: Harvey Mudd College News
 ---
-![Thomas Theodore Woodson](/assets/img/woodson-thomas.jpg)
+![Thomas Theodore Woodson](/assets/img/woodson-thomas.webp)
 
 Thomas Theodore Woodson, senior professor of engineering emeritus and former Engineering Clinic director at Harvey Mudd College, died June 11 in Claremont, Calif., at the age of 100.
 

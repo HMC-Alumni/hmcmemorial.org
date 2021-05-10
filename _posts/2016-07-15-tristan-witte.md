@@ -3,10 +3,10 @@ title: Tristan Witte
 date: 2016-07-15
 categories: alumni 2018
 tags: engineering
-image: /assets/img/tristan-witte.jpg
+image: /assets/img/tristan-witte.webp
 author: Harvey Mudd College In Memoriam
 ---
-![Tristan Witte](/assets/img/tristan-witte.jpg)
+![Tristan Witte](/assets/img/tristan-witte.webp)
 
 The Harvey Mudd community mourns the loss of Harvey Mudd College engineering student Tristan Witte ’18, 20, a talented athlete, musician and scholar, who passed away in a car accident July 15 along with his friend JJ Adkisson, 20, a graphic design student at California Institute of the Arts in Valencia.
 

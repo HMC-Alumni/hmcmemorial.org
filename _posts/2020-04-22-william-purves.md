@@ -3,10 +3,10 @@ title: William K. Purves
 date: 2020-04-22
 categories: staff faculty
 tags: biology computer-science
-image: /assets/img/Purves-2013_2336-lr.jpg
+image: /assets/img/bill-purves.webp
 author: Harvey Mudd College News
 ---
-![William K. Purves](/assets/img/Purves-2013_2336-lr.jpg)
+![William K. Purves](/assets/img/bill-purves.webp)
 
 The founding member and former chair of the Department of Biology at Harvey Mudd College William K. Purves, passed away April 22 in Costa Mesa with family at his side.
 

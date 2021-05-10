@@ -3,10 +3,10 @@ title: Phil Myhre
 date: 2018-08-26
 categories: staff faculty
 tags: chemistry
-image: /assets/img/Myhre-bw.jpg
+image: /assets/img/phil-myhre.webp
 author: Harvey Mudd College News
 ---
-![Phil Myhre](/assets/img/Myhre-bw.jpg)
+![Phil Myhre](/assets/img/phil-myhre.webp)
 
 Philip C. Myhre, Harvey Mudd College professor of chemistry emeritus, passed away at home in Tennessee Aug. 26 following a short illness.
 

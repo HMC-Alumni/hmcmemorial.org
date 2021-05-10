@@ -3,10 +3,10 @@ title: Malcolm Lewis
 date: 2012-10-13
 categories: alumni 1967 trustees
 tags: engineering
-image: /assets/img/malcolm-lewis.jpg
+image: /assets/img/malcolm-lewis.webp
 author: Harvey Mudd College In Memoriam
 ---
-![Malcolm Lewis](/assets/img/malcolm-lewis.jpg)
+![Malcolm Lewis](/assets/img/malcolm-lewis.webp)
 
 Malcolm Lewis ’67, internationally recognized expert in the design of energy-efficient buildings and past chair of the board of trustees of Harvey Mudd College, died Saturday October 13, 2012 at the age of 66.
 

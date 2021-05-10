@@ -3,10 +3,10 @@ title: Sedat Serdengecti
 date: 2014-11-30
 categories: staff faculty
 tags: engineering physics
-image: /assets/img/Sedat-news.jpg
+image: /assets/img/sedat-serdengecti.webp
 author: Harvey Mudd College In Memoriam
 ---
-![Sedat Serdengecti](/assets/img/Sedat-news.jpg)
+![Sedat Serdengecti](/assets/img/sedat-serdengecti.webp)
 
 Harvey Mudd College engineering Professor Emeritus Sedat Serdengecti died Nov. 30, 2014, following a heart attack. He was 87.
 

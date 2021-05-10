@@ -3,10 +3,10 @@ title: Robert J. Cave
 date: 2020-12-18
 categories: staff faculty
 tags: chemistry
-image: /assets/img/Robert J_ Cave.png
+image: /assets/img/robert-cave.webp
 author: Mudd Magazine
 ---
-![Robert J. Cave](/assets/img/Robert J_ Cave.png)
+![Robert J. Cave](/assets/img/robert-cave.webp)
 
 The Harvey Mudd College community mourns the loss of respected chemist, distinguished teacher and widely recognized scholar Robert J. Cave who died Dec. 18. Known for his hearty laugh and his welcoming and congenial manner, Cave served on the Harvey Mudd faculty for 32 years.
 

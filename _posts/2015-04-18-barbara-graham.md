@@ -2,10 +2,10 @@
 title: Barbara Graham
 date: 2015-04-18
 categories: staff
-image: /assets/img/Graham-Barbara.jpg
+image: /assets/img/barbara-graham.webp
 author: Harvey Mudd College News
 ---
-![Barbara Graham](/assets/img/Graham-Barbara.jpg)
+![Barbara Graham](/assets/img/barbara-graham.webp)
 
 The Harvey Mudd College community was saddened to learn of the passing of Barbara Graham, 77, former administrative aide and recipient of the 2004 Mary G. Binder Prize. Graham worked for 33 years in the associate dean’s office and served on the Staff Grievance Committee. She died April 18 in Fontana, California.
 

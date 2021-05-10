@@ -3,10 +3,10 @@ title: Nathaniel Davis
 date: 2011-05-16
 categories: staff faculty
 tags: hum-soc
-image: /assets/img/nathaniel-davis-2.jpg
+image: /assets/img/nathaniel-davis.webp
 author: Harvey Mudd College News
 ---
-![Nathaniel Davis](/assets/img/nathaniel-davis-2.jpg)
+![Nathaniel Davis](/assets/img/nathaniel-davis.webp)
 
 The Harvey Mudd College community was saddened to learn of the death this week of Professor Emeritus of Political Science Nathaniel Davis.
 

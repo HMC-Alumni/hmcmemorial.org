@@ -3,10 +3,10 @@ title: Joseph Platt
 date: 2012-07-10
 categories: staff administrators
 tags: physics
-image: /assets/img/Platt-Joe-web.jpg
+image: /assets/img/joe-platt.webp
 author: Harvey Mudd College News
 ---
-![Joseph Platt](/assets/img/Platt-Joe-web.jpg)
+![Joseph Platt](/assets/img/joe-platt.webp)
 
 Joseph B. Platt, founding president of Harvey Mudd College, died at home in Claremont on Tuesday, July 10, 2012. He was 96.  An accomplished physicist, Platt took the helm as HMC’s founding president in 1956 and led the College through two decades of growth to national acclaim as a premiere engineering, math and science college.
 

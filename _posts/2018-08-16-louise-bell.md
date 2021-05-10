@@ -3,10 +3,10 @@ title: Louise Bell
 date: 2018-08-16
 categories: supporters
 tags: physics
-image: /assets/img/LouiseBellCeremony2017.webp
+image: /assets/img/louise-bell.webp
 author: Harvey Mudd College News
 ---
-![Louise Bell](/assets/img/LouiseBellCeremony2017.webp)
+![Louise Bell](/assets/img/louise-bell.webp)
 
 Louise Bell, a devoted supporter of Harvey Mudd College and wife of the late emeritus physics faculty member Graydon Bell, died August 16, 2018.
 

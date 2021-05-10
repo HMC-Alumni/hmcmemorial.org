@@ -3,10 +3,10 @@ title: Michael Moody
 date: 2010-01-21
 categories: staff faculty
 tags: mathematics
-image: /assets/img/mike-moody.jpg
+image: /assets/img/mike-moody.webp
 author: Harvey Mudd College News
 ---
-![Michael Moody](/assets/img/mike-moody.jpg)
+![Michael Moody](/assets/img/mike-moody.webp)
 
 Michael Moody, cherished friend, mentor and inspiration to the members of the Harvey Mudd College (HMC) Math Department, passed away  January 21 after a long and difficult battle with lymphoma.
 

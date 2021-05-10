@@ -3,10 +3,10 @@ title: Robin Ives
 date: 2019-01-11
 categories: staff faculty
 tags: mathematics
-image: /assets/img/IvesRobin-lr.jpg
+image: /assets/img/robin-ives.webp
 author: Harvey Mudd College News
 ---
-![Robin Ives](/assets/img/IvesRobin-lr.jpg)
+![Robin Ives](/assets/img/robin-ives.webp)
 
 Harvey Mudd College professor of mathematics emeritus and Sierra Club Chairman Robert (Robin) T. Ives died Jan. 11, 2019.
 

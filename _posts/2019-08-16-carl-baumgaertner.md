@@ -3,10 +3,10 @@ title: Carl Baumgaertner
 date: 2019-08-16
 categories: staff faculty
 tags: engineering
-image: /assets/img/carl-baumgaertner.jpg
+image: /assets/img/carl-baumgaertner.webp
 author: Harvey Mudd College News
 ---
-![Carl Baumgaertner](/assets/img/carl-baumgaertner.jpg)
+![Carl Baumgaertner](/assets/img/carl-baumgaertner.webp)
 
 The College mourns the loss of Carl Baumgaertner, clinical professor of engineering emeritus, aerospace systems and electronics expert, and decorated military veteran, who died Aug. 16 at the age of 95.
 

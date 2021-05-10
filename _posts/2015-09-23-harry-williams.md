@@ -3,10 +3,10 @@ title: Harry Williams
 date: 2015-09-23
 categories: staff faculty
 tags: engineering
-image: /assets/img/harry-williams.jpg
+image: /assets/img/harry-williams.webp
 author: Harvey Mudd College News
 ---
-![Harry Williams](/assets/img/harry-williams.jpg)
+![Harry Williams](/assets/img/harry-williams.webp)
 
 Harvey Mudd College engineering Professor Emeritus Harry E. Williams Jr. passed away suddenly at Pomona Valley Hospital on Sept. 23 from complications following a stroke.
 

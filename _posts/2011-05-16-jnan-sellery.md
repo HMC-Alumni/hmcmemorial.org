@@ -3,10 +3,10 @@ title: J’nan Morse Sellery
 date: 2011-05-16
 categories: staff faculty
 tags: hum-soc
-image: /assets/img/jnan-sellery.jpg
+image: /assets/img/jnan-sellery.webp
 author: Harvey Mudd College News
 ---
-![J’nan Morse Sellery](/assets/img/jnan-sellery.jpg)
+![J’nan Morse Sellery](/assets/img/jnan-sellery.webp)
 
 The Harvey Mudd College community was saddened to learn of the death this week of professor of literature emerita J’nan Morse Sellery.
 

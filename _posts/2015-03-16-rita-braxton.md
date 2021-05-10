@@ -2,10 +2,10 @@
 title: Rita Braxton
 date: 2015-03-16
 categories: staff
-image: /assets/img/Braxton-rita.jpg
+image: /assets/img/rita-braxton.webp
 author: Harvey Mudd College News
 ---
-![Rita Braxton](/assets/img/Braxton-rita.jpg)
+![Rita Braxton](/assets/img/rita-braxton.webp)
 
 Rita Braxton, an employee in Dining Services, passed away on March 16, 2015.
 

@@ -3,10 +3,10 @@ title: Willie Zuniga
 date: 2017-02-02
 categories: alumni 2017
 tags: physics
-image: /assets/img/willie-zuniga.jpg
+image: /assets/img/willie-zuniga.webp
 author: Harvey Mudd College In Memoriam
 ---
-![Willie Zuniga](/assets/img/willie-zuniga.jpg)
+![Willie Zuniga](/assets/img/willie-zuniga.webp)
 
 The Harvey Mudd community mourns the loss of Willie Zuniga ’17, a talented physics major, mentor, leader and friend to many. Zuniga passed away on Feb. 2.
 

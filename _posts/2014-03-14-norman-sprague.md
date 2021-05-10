@@ -2,10 +2,10 @@
 title: Norman F. Sprague III
 date: 2014-03-14
 categories: trustees
-image: /assets/img/SpragueNorman-766x1024.jpg
+image: /assets/img/norman-sprague.webp
 author: Harvey Mudd College News
 ---
-![Norman F. Sprague III](/assets/img/SpragueNorman-766x1024.jpg)
+![Norman F. Sprague III](/assets/img/norman-sprague.webp)
 
 Harvey Mudd College Trustee Norman F. Sprague III, an active and dedicated member of the board of trustees for 35 years, died March 14, 2014, at the age of 67. He was the grandson of Harvey S. Mudd, for whom the College is named.
 

@@ -3,11 +3,11 @@ title: Bob Keller
 date: 2020-09-13
 categories: staff faculty
 tags: computer-science
-image: /assets/img/keller-feature.jpg
+image: /assets/img/bob-keller.webp
 author: Harvey Mudd College In Memoriam
 comments: false
 ---
-![Bob Keller](/assets/img/keller-feature.jpg)
+![Bob Keller](/assets/img/bob-keller.webp)
 
 The Harvey Mudd College community mourns the loss of Robert (Bob) Keller, who died Sept. 13. Bob was an internationally recognized computer scientist with corporate and academic experience as a technical leader, researcher, educator and administrator.
 

@@ -3,10 +3,10 @@ title: Bob Borrelli
 date: 2013-09-11
 categories: staff faculty
 tags: mathematics
-image: /assets/img/bob-borrelli-1-762x1024.jpg
+image: /assets/img/bob-borrelli.webp
 author: Harvey Mudd College In Memoriam
 ---
-![Bob Borrelli](/assets/img/bob-borrelli-1-762x1024.jpg)
+![Bob Borrelli](/assets/img/bob-borrelli.webp)
 
 Robert “Bob” L. Borrelli, a longtime faculty member, campus leader and friend of Harvey Mudd College died Sept. 11, 2013 at the age of 81, following a short period of declining health. Borrelli joined the faculty in 1964, taught for 35 years and was active at Harvey Mudd in his retirement, influencing the College’s development in many ways.
 

@@ -3,11 +3,11 @@ title: Richard (Dick) G. Olson
 date: 2020-06-27
 categories: alumni 1962 staff faculty
 tags: hum-soc engineering
-image: /assets/img/highlight-box-olson.jpg
+image: /assets/img/dick-olson.webp
 author: Harvey Mudd College In Memoriam
 comments: false
 ---
-![Richard (Dick) G. Olson](/assets/img/highlight-box-olson.jpg)
+![Richard (Dick) G. Olson](/assets/img/dick-olson.webp)
 
 The Harvey Mudd College community mourns the loss of physicist, historian and Harvey Mudd alumnus Richard G. Olson, who died June 27. Former chair of the faculty and chair of the Department of Humanities, Social Sciences, and the Arts, Olson was a prolific writer with more than 60 published works in the history of science. He served on the Harvey Mudd faculty for 35 years before his retirement in 2011.
 

@@ -3,10 +3,10 @@ title: Melvin Henriksen
 date: 2009-10-14
 categories: staff faculty
 tags: mathematics
-image: /assets/img/melvin-henrikson.jpg
+image: /assets/img/melvin-henrikson.webp
 author: Harvey Mudd College News
 ---
-![Melvin Henriksen](/assets/img/melvin-henrikson.jpg)
+![Melvin Henriksen](/assets/img/melvin-henrikson.webp)
 
 An honored guest at a mathematics conference in Iran? A passion for the sport of curling? A lover of dogs and small children? While many of us thought we knew Mel Henriksen, professor of mathematics emeritus at Harvey Mudd College, this softer side of Mel was revealed when his long and productive career was commemorated by the Claremont Mathematics community, an assortment of prominent mathematicians, and members of Mel’s family at a one day conference on Saturday, March 27th.
 
