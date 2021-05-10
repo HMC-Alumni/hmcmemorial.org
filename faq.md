@@ -1,17 +1,6 @@
 ---
 layout: page
 title: Frequently Asked Questions
-permalink: faq
-sidenav: primary
-subnav:
-  - text: Who runs this website?
-    href: '#who-runs-this-website'
-  - text: How did this site come about?
-    href: '#how-did-this-site-come-about'
-  - text: Where do you get all the information for the entries?
-    href: '#where-do-you-get-all-the-information-for-the-entries'
-  - text: How can I contribute a new entry?
-    href: '#how-can-i-contribute-a-new-entry'
 ---
 ## Who runs this website?
 
