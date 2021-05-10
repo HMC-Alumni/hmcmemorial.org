@@ -14,4 +14,4 @@ Louise Bell, a devoted supporter of Harvey Mudd College and wife of the late eme
 
 The Bells will be long remembered by the College community and the Department of Physics for their named fund, The Graydon and Louise Bell Endowed Prize, created in their honor in 1999. It is awarded at the start of the fall semester to a senior physics major for outstanding scholarship, creativity and service.
 
-For the full memorial, please read the [HMC News aricle](https://www.hmc.edu/about-hmc/2018/09/18/in-memoriam-louise-bell/).
+For the full memorial, please read the [HMC News article](https://www.hmc.edu/about-hmc/2018/09/18/in-memoriam-louise-bell/).
