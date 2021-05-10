@@ -5,8 +5,8 @@ primary:
     links: categories
   - text: Departments
     links: departments
-  - text: FAQ
-    href: /faq
+  - text: Help
+    links: help
 
 categories:
   - text: Alumni
@@ -37,3 +37,11 @@ departments:
     href: /departments/mathematics/
   - text: Physics
     href: /departments/physics/
+
+help:
+  - text: FAQ
+    href: /faq
+  - text: Cookies
+    href: /cookies
+  - text: Comment Policy
+    href: /comment-policy
