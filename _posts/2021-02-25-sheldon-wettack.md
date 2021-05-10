@@ -3,7 +3,8 @@ title: Sheldon Wettack
 date: 2021-02-25
 categories: staff
 image: /assets/img/sheldon-wettack.webp
-author: Harvey Mudd College In Memoriam
+comments: false
+author: Dykstra Funeral Home
 ---
 ![Sheldon Wettack](/assets/img/sheldon-wettack.webp)
 
@@ -17,4 +18,4 @@ Sheldon’s joyful and ego-less persona was evident in the love he showed his fa
 
 Sheldon is survived by Marilyn (Jones) Wettack, his loving wife of 65 years (Holland, MI); his sisters Betsy White and Barb (Mike) Estrada of California; his children Kathy (Jim) Hodge of Grand Rapids, Michigan; Pam (Burt) Leland of Santa Fe, New Mexico; Deb (Dean) Welsch of Michigan and David (Amy) Wettack of Weber City, Virginia; his eight grandchildren Jennifer, Megan, Bryan, Laura, Aaron, Lauren, Josh, and Abby; his six great grandchildren and his devoted dog Holly. He was preceded in death by his parents, brother-in-law Larry White and grandson Clayton. 
 
-This obituary was originally published [here](https://dykstrafuneralhome.com/obituaries/dr-sheldon-wettack.135088).
+This obituary was originally published [here](https://dykstrafuneralhome.com/obituaries/dr-sheldon-wettack.135088), where you can also share memories.
