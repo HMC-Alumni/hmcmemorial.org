@@ -7,7 +7,7 @@ author: Harvey Mudd College News
 ---
 Professor of Literature Emeritus William H. Davenport, a member of the founding faculty at Harvey Mudd College and chair of the Department of Humanities and Social Sciences for many years, died in Claremont on Tuesday, Feb. 21. He was 97 years old.
 
-Davenport was among the "Seven Samurai," as they affectionately became known by students, who were recruited by founding President [Joseph B. Platt](http://localhost:4000/2012-07-10/joseph-platt.html) to constitute the first faculty at the college when it opened to students in 1957. He served as chair of the Department of Humanities and Social Sciences from 1957 to 1968 and retired in 1973.
+Davenport was among the "Seven Samurai," as they affectionately became known by students, who were recruited by founding President [Joseph B. Platt](/2012-07-10/joseph-platt.html) to constitute the first faculty at the college when it opened to students in 1957. He served as chair of the Department of Humanities and Social Sciences from 1957 to 1968 and retired in 1973.
 
 He is survived by his daughters Linda Davenport and Marsha Davenport Gokey, one grandchild and three great-grandchildren. He will be buried in Pennsylvania alongside his wife Frances Isobel, who died in 2002.
 
