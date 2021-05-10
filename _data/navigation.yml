@@ -1,14 +1,14 @@
 primary:
   - text: Home
     href: /
-  - text: FAQ
-    href: /faq
-  - text: Memorials
-    links: memorials
+  - text: Categories
+    links: categories
   - text: Departments
     links: departments
+  - text: FAQ
+    href: /faq
 
-memorials:
+categories:
   - text: Alumni
     href: /categories/alumni/
   - text: Administrators
