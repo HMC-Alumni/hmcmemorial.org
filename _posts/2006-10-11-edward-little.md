@@ -8,7 +8,7 @@ Edward F. "Spif" Little, Harvey Mudd College's first non-faculty employee, died 
 
 Born in Boston, Mass., the World War II veteran gave up a managing position with Ohio-based Glastic Corporation to become assistant to HMC Founding President Joseph B. Platt in 1957.
 
-"The idea of a new college really intrigued him," said Platt. "He thought that, with due respect to scholars, we might need a person with business experience and scholarly sympathies."
+"The idea of a new college really intrigued him," said [Platt](/2012-07-10/joseph-platt.html). "He thought that, with due respect to scholars, we might need a person with business experience and scholarly sympathies."
 
 It wasn't long before Little, who held a bachelor’s degree from Dartmouth College and a master's degree in medieval philosophy from the University of Montreal, donned multiple hats—working with building inspectors, reporting on the college’s plans to the Claremont City Council, finding housing for new faculty and talking with prospective students.
 

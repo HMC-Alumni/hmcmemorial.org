@@ -9,7 +9,7 @@ author: Harvey Mudd College In Memoriam
 
 Jean Ferguson Platt, founding first lady of Harvey Mudd College, passed away on Feb. 18 in Claremont, Calif. She was 91.
 
-Jean Platt, wife of Founding President and physics Professor Joseph Beaven Platt, was deeply involved in the founding of HMC, helping to establish the College in the 1950s and supporting its mission in the decades that followed. After leaving HMC in 1976, Joe and Jean Platt devoted five years to Claremont Graduate University as president and first lady.
+Jean Platt, wife of Founding President and physics Professor [Joseph Beaven Platt](/2012-07-10/joseph-platt.html), was deeply involved in the founding of HMC, helping to establish the College in the 1950s and supporting its mission in the decades that followed. After leaving HMC in 1976, Joe and Jean Platt devoted five years to Claremont Graduate University as president and first lady.
 
 Jean Platt was preceded in death by Joe, who died July 10, 2012. They are survived by two daughters, Ann Platt Walker of La Jolla, Calif., and Elizabeth Platt Garrow of Willowbrook, Ill.; their husbands, Richard Walker and Thomas Garrow; grandchildren Stephen Cavell Walker, Jay Bradbury Walker, Jennifer Elizabeth Garrow and Erin Alexander Garrow; and five great-grandchildren.
 

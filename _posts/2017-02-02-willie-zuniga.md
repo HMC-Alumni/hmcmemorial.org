@@ -22,4 +22,4 @@ In his free time, Willie loved listening to music and playing guitar.
 
 The son of Guillermo and Sara Zuniga of San Francisco, California, Willie is survived by his parents and two younger brothers, Andrew and Nicholas.
 
-For the full memorial, please read the [HMC memorial](https://www.hmc.edu/in-memoriam/tristan-witte/) where many shared their memories.
+For the full memorial, please read the [HMC memorial](https://www.hmc.edu/in-memoriam/willie-zuniga/) where many shared their memories.

@@ -1,7 +1,7 @@
 ---
 title: Phil Myhre
 date: 2018-08-26
-categories: staff faculty
+categories: alumni staff faculty
 tags: chemistry
 image: /assets/img/phil-myhre.webp
 author: Harvey Mudd College News

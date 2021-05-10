@@ -8,8 +8,6 @@ image: /assets/img/theodore-waldman.webp
 ---
 ![Theodore Waldman](/assets/img/theodore-waldman.webp)
 
-All are welcome to attend a memorial for Professor Emeritus Theodore Waldman, which will be held on the Harvey Mudd College campus on Sunday, Feb. 19, at 2 p.m. in the Green Room of Platt Campus Center.
-
 The Harvey Mudd College Community was saddened to hear that Ted Waldman, who was a professor in the Department of Humanities and Social Sciences for 28 years, died on December 8, 2005, following surgery.
 
 Jeff Groves, chair of the Humanities and Social Sciences Department at HMC remarked, "The College was greatly enriched and many student lives were touched by Ted's absolute commitment to our educational mission."
