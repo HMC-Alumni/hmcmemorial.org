@@ -1,7 +1,7 @@
 ---
 title: Malcolm Lewis
 date: 2012-10-13
-categories: alumni 1967 trustee
+categories: alumni 1967 trustees
 tags: engineering
 image: /assets/img/malcolm-lewis.jpg
 author: Harvey Mudd College In Memoriam

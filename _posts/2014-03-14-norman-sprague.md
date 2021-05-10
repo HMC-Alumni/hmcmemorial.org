@@ -1,7 +1,7 @@
 ---
 title: Norman F. Sprague III
 date: 2014-03-14
-categories: trustee
+categories: trustees
 image: /assets/img/SpragueNorman-766x1024.jpg
 author: Harvey Mudd College News
 ---

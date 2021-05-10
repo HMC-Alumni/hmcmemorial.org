@@ -1,7 +1,7 @@
 ---
 title: Joseph Platt
 date: 2012-07-10
-categories: staff administration
+categories: staff administrators
 tags: physics
 image: /assets/img/Platt-Joe-web.jpg
 author: Harvey Mudd College News
