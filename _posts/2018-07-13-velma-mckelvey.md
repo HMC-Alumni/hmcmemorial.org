@@ -23,4 +23,4 @@ George preceded Mrs. McKelvey in death, in 1998.
 
 She is survived by her son George, daughter-in-law Lynn, and granddaughter Brooke of West Linn, Oregon; and by her brother-in-law, Robert McKelvey of Sea Girt, New Jersey.
 
-The HMC News article is available [here](https://www.hmc.edu/non-wp-sites/old-news/leonoreannenberg.php).
+The HMC News article is available [here](https://www.hmc.edu/about-hmc/2018/10/24/in-memoriam-velma-mckelvey/).
