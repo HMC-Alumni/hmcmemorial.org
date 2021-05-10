@@ -1,0 +1,37 @@
+---
+layout: default
+main:
+  class: usa-layout-docs usa-layout-docs__main desktop:grid-col-9 usa-prose
+---
+
+<div class="usa-section">
+  <div class="grid-container">
+    <div class="grid-row grid-gap flex-align-start">
+      {% assign sidenav = site.data.navigation[page.sidenav] | default: page.sidenav %}
+      {% if sidenav %}
+        <div class="usa-layout-docs__sidenav desktop:grid-col-3{% if page.sticky_sidenav %} usa-sticky-sidenav{% endif %}">
+          {% include sidenav.html links=sidenav %}
+        </div>
+      {% endif %}
+      <main class="usa-layout-docs usa-layout-docs__main usa-prose{% if sidenav %} desktop:grid-col-9{% endif %}" id="main-content">
+        {% if page.title %}
+          {% if page.title == 'hum-soc' %}
+            <h1>Humanities &amp; Social Sciences</h1>
+          {% else %}
+            {% assign words = page.title | split: "-" %}
+            <h1>{% for word in words %}{{ word | capitalize }} {% endfor %}</h1>
+          {% endif %}
+        {% endif %}
+        <div class="grid-row grid-gap">
+          <div class="tablet:grid-col">
+            <ul class="usa-card-group">
+              {% for post in page.posts %}
+                {% include post-card.html %}
+              {% endfor %}
+            </ul>
+          </div>
+        </div>
+      </main>
+    </div>
+  </div>
+</div>

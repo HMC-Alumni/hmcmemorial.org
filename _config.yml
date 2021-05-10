@@ -30,8 +30,8 @@ google_analytics_ua: UA-196525748-1
 jekyll-archives:
   enabled: [categories, tags]
   layouts:
-    category: tag
-    tag: tag
+    category: category
+    tag: department
   permalinks:
     tag: /departments/:name/
     category: /categories/:name/
