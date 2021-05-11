@@ -4,7 +4,10 @@ date: 1989-05-22
 categories: staff faculty
 tags: chemistry
 author: Los Angeles Times
+image: /assets/img/j-arthur-campbell.webp
 ---
+![J. Arthur Campbell](/assets/img/j-arthur-campbell.webp)
+
 J. Arthur Campbell, a Harvey Mudd College professor credited with changing the way in which chemistry is taught to young people, has died of Lou Gehrig's disease. George McKelvey, a longtime colleague, said Campbell died Monday at his Claremont home after battling amytrophic lateral sclerosis for nearly three years. He was 72. Campbell, the first faculty member hired by Harvey Mudd when it opened in 1957, had continued to teach at the school for some time after his illness was diagnosed despite having officially retired two years ago. During his first years at Harvey Mudd, he was chosen as chairman of a new high school chemistry program under the auspices of the American Chemical Society. 
 
 The project involved textual study, classroom instruction, testing, modern laboratory equipment and short films. Called the CHEM Study, it is now in use by more than half the high school chemistry students in the country, said Joseph B. Platt, the founding president of Harvey Mudd and the administrator who recruited Campbell. Campbell was revered by his students, [Platt](/2012-07-10/joseph-platt.html) said, adding that when Harvey Mudd recently linked its newest, most powerful computer into a worldwide science network, they dubbed it "J. Arthur." Campbell had headed the college's chemistry department for 25 years. In 1981, Change magazine rated it the best undergraduate program in the country. Campbell, who held a doctorate from the University of California, is survived by his wife, Dorothy, two daughters, five granddaughters and a great-grandson. A memorial will be held June 11 at 2 p.m. at the college and friends are asked to contribute to a scholarship fund there in Campbell's name.
