@@ -1,12 +1,12 @@
 <li class="tablet:grid-col-4 usa-card usa-card--header-first">
   <div class="usa-card__container">
     <header class="usa-card__header">
-      <h2 class="usa-card__heading"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+      <h2 class="usa-card__heading"><a href="{{ post.url | relative_url }}" class="usa-link">{{ post.title }}</a></h2>
       <time datetime="{{ post.date | date: '%F' }}">{{ post.date | date: '%b %e, %Y' }}</time>
     </header>
     <div class="usa-card__media">
       <div class="usa-card__img">
-        <img src="{% if post.image %}{{ post.image | escape }}{% else %}/assets/img/hmc-logo.svg{% endif %}" alt="{{ post.title | escape }}">
+        <a href="{{ post.url | relative_url }}" class="usa-link"><img src="{% if post.image %}{{ post.image | escape }}{% else %}/assets/img/hmc-logo.svg{% endif %}" alt="{{ post.title | escape }}"></a>
       </div>
     </div>
     <div class="usa-card__body">
