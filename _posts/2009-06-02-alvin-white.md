@@ -4,7 +4,10 @@ date: 2009-06-02
 categories: staff faculty
 tags: mathematics
 author: Harvey Mudd College News
+image: /assets/img/alvin-white.webp
 ---
+![Alvin White](/assets/img/alvin-white.webp)
+
 Professor of Mathematics Emeritus Alvin White, a long-time member of the Department of Mathematics at Harvey Mudd College (HMC), died June 2, 2009.
 
 "Alvin served the college from 1962 until his retirement in 1996 with grace, kindness and good humor," said Vice President and Dean of Faculty [Robert Cave](/2020-12-18/robert-cave.html) in an announcement to the college community. "He loved mathematics and was a strong advocate within and beyond HMC for seeing mathematics as a humanistic discipline. He was also a friendly and supportive senior colleague to young faculty."
