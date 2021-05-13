@@ -2,7 +2,7 @@
 title: Richard (Dick) G. Olson
 date: 2020-06-27
 categories: alumni 1962 staff faculty
-tags: hum-soc engineering
+tags: hum-soc physics
 image: /assets/img/dick-olson.webp
 author: Harvey Mudd College In Memoriam
 comments: false
